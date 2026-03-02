@@ -4,10 +4,10 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_ID = "Ov23liKzrbwWQBhvA46E"
+GITHUB_ID = "Ov23lijzeEMqejtfRjEW"
 GITHUB_OWNER = "Tmerowr"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://https://mimoo.top/api/auth"
-NEXT_PUBLIC_API_URL="https://mimoo.top"
+NEXTAUTH_URL = "https://navsphere-as0.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://navsphere-as0.pages.dev/"
 
